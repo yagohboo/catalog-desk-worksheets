@@ -1,0 +1,4 @@
+brand,collection,ordering_contact,currency,sku,product_name,description,wholesale_price,suggested_retail,minimum_units,units_per_case,order_quantity,line_subtotal,review_note
+Stone & Fern fictional,Autumn wholesale collection,orders@example.invalid,USD,SF-001,Everyday cup,Matte glaze; warm white; 10 oz,12.50,28.00,6,6,6,75.00,Fictional planning example; meets minimum and full case
+Stone & Fern fictional,Autumn wholesale collection,orders@example.invalid,USD,SF-002,Small serving bowl,Speckled stoneware; 5 inch,18.00,40.00,4,4,4,72.00,Fictional planning example; meets minimum and full case
+Stone & Fern fictional,Autumn wholesale collection,orders@example.invalid,USD,SF-003,Bud vase,Satin finish; clay pink; 6 inch,15.00,34.00,6,3,0,0.00,No units selected; worksheet total is 147.00 before tax and shipping

@@ -1,0 +1,7 @@
+event,cue_order,cue_title,owner,planned_minutes,actual_minutes,buffer_after_minutes,planned_start,projected_start,crew_notes
+Studio Night fictional,1,Doors and guest arrival,Front of house,25,27,5,18:30,18:30,House music on; keep main aisle clear
+Studio Night fictional,2,Welcome from the host,Maya host,5,6,0,19:00,19:02,Warm stage wash; handheld microphone 1
+Studio Night fictional,3,Creative showcase,Dev stage manager,18,,4,19:05,19:08,Introduce three fictional presenters; confirm readiness
+Studio Night fictional,4,Audience conversation,Maya host,15,,2,19:27,19:30,Two roaming microphones; give a two-minute wrap cue
+Studio Night fictional,5,Closing remarks,Maya host,3,,0,19:44,19:47,Thank the crew and explain exit route
+Studio Night fictional,6,Guest departure and reset,Front of house,15,,0,19:47,19:50,Planned finish 20:02; projected finish 20:05

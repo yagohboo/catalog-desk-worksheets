@@ -1,0 +1,9 @@
+check_id,check_area,review_question,status,evidence_or_change,reviewer,next_action
+C01,File pair,Have I identified the unchanged current export and proposed update?,recorded,Fictional current export and proposed update kept as separate files,Example reviewer,Keep both originals unchanged
+C02,Intended changes,Do I have a written list of the changes I intend to make?,open,Price increase is proposed; other differences need confirmation,Example reviewer,Write the intended change list before acting
+C03,Prices,Does each changed or empty price match that written list?,open,24.00 to 30.00 is a 6.00 increase or 25%; another 12.00 price is blank,Example reviewer,Confirm both values against intended prices
+C04,Identifiers,Are changed SKUs or other identifiers intentional?,open,000101 changed to 000101-new,Example reviewer,Confirm the intended identifier
+C05,Blank values,Have I reviewed previously populated fields that are now blank?,open,Vendor changed from Example Studio to blank; another price changed from 12.00 to blank,Example reviewer,Confirm whether these blank values are intended
+C06,Variant matching,Have I reviewed unmatched variants or missing option combinations?,open,Olive option combination absent for canvas-tote; one proposed variant unmatched,Example reviewer,Investigate partial updates or option changes without assuming deletion
+C07,Review completeness,Did I review every returned finding and check whether results were truncated?,recorded,Fictional report returned 0 errors; 6 warnings; 1 note; no truncation,Example reviewer,Read all seven findings rather than only the error count
+C08,Decision record,Have I recorded unresolved questions and retained the input files and report?,hold,Open questions remain; no store action taken,Example reviewer,Resolve questions and repeat review after edits
