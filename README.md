@@ -6,6 +6,8 @@ Use the files in your usual spreadsheet application. They contain **no formulas,
 
 [Browse the worksheet library and download the complete starter pack](https://catalog-desk-resources.silentsnake2003.chatgpt.site?utm_source=github&utm_medium=resource_repository&utm_campaign=free_worksheets).
 
+**Direct download:** [Get all four free worksheets and examples as one ZIP](https://github.com/yagohboo/catalog-desk-worksheets/releases/download/worksheets-v1.0.0/The-Catalog-Desk-Free-Starter-Kit.zip). No signup is needed. [Release notes and file checksum](https://github.com/yagohboo/catalog-desk-worksheets/releases/tag/worksheets-v1.0.0).
+
 ## Choose a task
 
 | Task | Start with | See a filled example |
