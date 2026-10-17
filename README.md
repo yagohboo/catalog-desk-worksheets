@@ -27,6 +27,8 @@ The catalog blank contains eight review questions. The other blank files contain
 4. Save a separate copy for each project, review, collection, or event. If you add formulas or formatting, keep an editable workbook copy as well: CSV does not preserve workbook formatting or multiple sheets.
 5. Review the results and any private client or supplier information before sharing. Keep collaborators on the same current version.
 
+Need help with the import? [Open a CSV worksheet without losing leading-zero IDs](https://catalog-desk-resources.silentsnake2003.chatgpt.site/guides/open-csv-worksheet) walks through text handling, a one-row check, and saving a working copy. Compare imported identifiers with your untouched source; changing the display format afterward does not recover a changed identifier.
+
 ## Catalog review checklist
 
 Use this checklist to record questions about an unchanged current export and a proposed update before deciding what to do. Keep both source files, list the changes you intend, and record evidence and a next action for every unresolved item.
@@ -50,6 +52,8 @@ The fictional website project has three requests:
 | Write all service-page copy | `180 / 60 × 85.00 = 255.00 USD` | Declined |
 
 Proposed work totals `340.00 USD`; recorded-as-approved work totals `127.50 USD`. The declined request is excluded from both totals. Statuses are manual records, not authenticated client approval. Amounts exclude taxes and fees. The worksheet is not a contract, invoice, or billing service.
+
+**Prefer Notion for scope changes?** [Use the free Scope Change Log for Freelancers](https://verbena-concrete-a09.notion.site/Scope-Change-Log-for-Freelancers-3fb88db589cc80efb8a7dd245a7f1aa1). It includes a project baseline, manual estimates, three fictional requests, and separate Proposed, Recorded approved, and Declined views. Duplicate the whole page for one project and clear the samples before use. A Notion account is needed to duplicate it into your workspace; this is a separate online template, not a file in the CSV ZIP. Amounts are entered manually, and recorded statuses do not authenticate client consent. It is not a contract or invoice.
 
 ## Wholesale collection worksheet
 
