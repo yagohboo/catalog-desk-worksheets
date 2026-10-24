@@ -53,6 +53,8 @@ The fictional website project has three requests:
 
 Proposed work totals `340.00 USD`; recorded-as-approved work totals `127.50 USD`. The declined request is excluded from both totals. Statuses are manual records, not authenticated client approval. Amounts exclude taxes and fees. The worksheet is not a contract, invoice, or billing service.
 
+**Preview the separate Scope Change Desk ($19 USD once):** [Try the fictional estimate demo](https://catalog-desk-resources.silentsnake2003.chatgpt.site/demos/scope-change-desk). Change the sample hours and rate, and inspect a fixed fictional HTML summary. The demo is free to view without signing up; it does not save projects and is not the paid application.
+
 **Prefer Notion for scope changes?** [Use the free Scope Change Log for Freelancers](https://verbena-concrete-a09.notion.site/Scope-Change-Log-for-Freelancers-3fb88db589cc80efb8a7dd245a7f1aa1). It includes a project baseline, manual estimates, three fictional requests, and separate Proposed, Recorded approved, and Declined views. Duplicate the whole page for one project and clear the samples before use. A Notion account is needed to duplicate it into your workspace; this is a separate online template, not a file in the CSV ZIP. Amounts are entered manually, and recorded statuses do not authenticate client consent. It is not a contract or invoice.
 
 ## Wholesale collection worksheet
@@ -89,3 +91,4 @@ The original starter pack instructions and terms are preserved in [worksheets/RE
 > Include the worksheet or product name and a small fictional example when reporting a problem; avoid sending private client or supplier data.
 
 These are the supplied worksheet usage terms; this repository does not add a separate software license or expand the rights to any paid application.
+
